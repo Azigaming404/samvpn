@@ -1,4 +1,4 @@
-## Anda hanya perlu menyalin script dibawah dan paste di Server anda! 
+## Anda hanya perlu menyalin script dibawah dan paste di Server anda!
 
 ### SILA SALIN DAN PASTE SAHAJA DI VPS ANDA
 ```
